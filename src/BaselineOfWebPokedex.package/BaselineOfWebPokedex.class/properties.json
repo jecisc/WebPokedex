@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfWebPokedex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfWebPokedex",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

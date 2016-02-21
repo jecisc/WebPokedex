@@ -1,0 +1,15 @@
+{
+	"category" : "WebPokedex-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"name" ],
+	"name" : "WPPokemon",
+	"pools" : [
+		 ],
+	"super" : "WPObject",
+	"type" : "normal" }

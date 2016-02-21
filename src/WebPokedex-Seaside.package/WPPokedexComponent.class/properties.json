@@ -1,0 +1,14 @@
+{
+	"category" : "WebPokedex-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "WPPokedexComponent",
+	"pools" : [
+		 ],
+	"super" : "WPComponent",
+	"type" : "normal" }

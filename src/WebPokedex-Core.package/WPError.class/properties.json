@@ -1,0 +1,14 @@
+{
+	"category" : "WebPokedex-Core-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WPError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

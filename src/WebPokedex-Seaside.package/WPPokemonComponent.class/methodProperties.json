@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"pokemon:" : "CyrilFerlicot 2/21/2016 19:37" },
+		"pokemon:" : "CyrilFerlicot 2/21/2016 19:37",
+		"style" : "CyrilFerlicot 2/23/2016 23:29" },
 	"instance" : {
 		"pokemon" : "CyrilFerlicot 2/21/2016 19:33",
 		"pokemon:" : "CyrilFerlicot 2/21/2016 19:33",
-		"renderContentOn:" : "CyrilFerlicot 2/21/2016 19:39" } }
+		"renderContentOn:" : "CyrilFerlicot 2/23/2016 23:02",
+		"renderIdOn:" : "CyrilFerlicot 2/23/2016 23:05" } }

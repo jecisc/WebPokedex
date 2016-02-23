@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	pokemons := WPModelBuilder pokemons
+	pokemons := WPModelBuilder pokemons asSortedCollection: [ :pokeA :pokeB |	pokeA id < pokeB id ]

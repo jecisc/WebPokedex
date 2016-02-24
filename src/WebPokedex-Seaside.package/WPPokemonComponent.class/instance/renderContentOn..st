@@ -2,10 +2,9 @@ rendering
 renderContentOn: html
 	html div
 		class: 'pokemon';
-		with:
-				[ html image resourceUrl: (WPServer current urlOf: self pokemon).
-			html break.
-			self renderIdOn: html.
-			html
-				space;
-				text: self pokemon name ]
+		with: [ html heading
+				level2;
+				with: self pokemon name capitalized.
+			html div
+				class: 'entry';
+				with: [ self renderEntryOn: html ] ]

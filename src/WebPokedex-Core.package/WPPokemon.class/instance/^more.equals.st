@@ -1,0 +1,3 @@
+comparing
+>= aPokemon
+	^ aPokemon <= self

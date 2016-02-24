@@ -1,7 +1,11 @@
 {
 	"class" : {
-		 },
+		"readStonModel" : "CyrilFerlicot 2/24/2016 22:24",
+		"readStonModelFrom:" : "CyrilFerlicot 2/24/2016 22:12",
+		"save:" : "CyrilFerlicot 2/24/2016 22:09",
+		"saved" : "CyrilFerlicot 2/24/2016 22:20",
+		"stonSerialisation" : "CyrilFerlicot 2/24/2016 22:06",
+		"stonSerialisationOn:" : "CyrilFerlicot 2/24/2016 22:04" },
 	"instance" : {
-		"initialize" : "CyrilFerlicot 2/23/2016 22:56",
 		"pokemons" : "CyrilFerlicot 2/14/2016 12:36",
 		"pokemons:" : "CyrilFerlicot 2/14/2016 12:36" } }

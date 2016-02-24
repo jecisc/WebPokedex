@@ -25,4 +25,4 @@ pokemons
 						ifFail: [ :exception | UIManager default message: 'Query pokemon failed :(' ];
 						get) ]
 		displayingProgress: [ :name | 'Computing ' , name ].
-	^ pokemons
+	^ pokemons asSortedCollection

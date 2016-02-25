@@ -1,0 +1,3 @@
+action
+logout
+    user := nil

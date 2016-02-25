@@ -1,3 +1,5 @@
 rendering
 renderContentOn: html
-	html render: self mainComponent
+	self session isLoggedIn
+		ifTrue: [ html render: WPLoginComponent new ]
+		ifFalse: [ html render: self mainComponent ]

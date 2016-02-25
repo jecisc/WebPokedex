@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"mainComponent" ],
-	"name" : "WPRoot",
+		"user" ],
+	"name" : "WPSession",
 	"pools" : [
 		 ],
-	"super" : "WPComponent",
+	"super" : "WASession",
 	"type" : "normal" }

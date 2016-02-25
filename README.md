@@ -6,6 +6,7 @@ Metacello new
   githubUser: 'jecisc' project: 'WebPokedex' commitish: 'master' path: 'src';
   onWarningLog;
   load.
-  
+ 
+WPPokedex readStonModel. 
 WPServer launch
 ```

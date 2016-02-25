@@ -1,10 +1,14 @@
 {
 	"class" : {
 		"pokemon:" : "CyrilFerlicot 2/21/2016 19:37",
-		"style" : "CyrilFerlicot 2/24/2016 23:03" },
+		"style" : "CyrilFerlicot 2/26/2016 00:25" },
 	"instance" : {
 		"pokemon" : "CyrilFerlicot 2/21/2016 19:33",
 		"pokemon:" : "CyrilFerlicot 2/21/2016 19:33",
 		"renderContentOn:" : "CyrilFerlicot 2/24/2016 20:42",
-		"renderEntryOn:" : "CyrilFerlicot 2/25/2016 11:45",
-		"renderIdOn:" : "CyrilFerlicot 2/24/2016 22:54" } }
+		"renderDatasOn:" : "CyrilFerlicot 2/25/2016 22:31",
+		"renderEntryOn:" : "CyrilFerlicot 2/26/2016 00:21",
+		"renderIdOn:" : "CyrilFerlicot 2/24/2016 22:54",
+		"renderInteractionsOn:" : "CyrilFerlicot 2/26/2016 00:17",
+		"toggelHavePokemon" : "CyrilFerlicot 2/26/2016 00:19",
+		"toggleCanProvidePokemon" : "CyrilFerlicot 2/26/2016 00:19" } }

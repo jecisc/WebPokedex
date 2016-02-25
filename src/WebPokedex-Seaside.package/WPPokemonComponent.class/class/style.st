@@ -8,13 +8,12 @@ style
 	text-align: center;
 }
 
-.pokemon img{
+.pokemon .pokemonIcon{
 	height: 100px;
 	width: 100px;
 	background-color: rgba(255, 242, 230, 0.8);
 	border-radius: 50%;
-	padding: 15px;
-	margin-bottom: 10px;
+	padding: 15px;s
 }
 
 .pokemon h2{
@@ -57,5 +56,14 @@ style
     color: #919191;
     font-size: 80%;
     line-height: 125%;
-    margin: 0.5em 0;
+}
+
+.pokemon .interactions img{
+	height: 35px;
+	width: 35px;	
+	opacity: 0.5;
+}
+
+.pokemon .interactions img .isActive{
+	opacity: 0.9;
 }'

@@ -1,9 +1,7 @@
 rendering
 renderEntryOn: html
-	html image resourceUrl: (WPServer current urlOf: self pokemon).
-	html div
-		class: 'datas';
-		with: [ self renderIdOn: html.
-			html heading
-				level5;
-				with: self pokemon name capitalized ]
+	html image
+		class: 'pokemonIcon';
+		url: (WPServer current urlOf: self pokemon).
+	self renderInteractionsOn: html.
+	self renderDatasOn: html

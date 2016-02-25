@@ -1,4 +1,5 @@
 initialization
 initialize
 	super initialize.
-	self catched: Set new
+	self pokemons: Set new.
+	self availablePokemons: Set new

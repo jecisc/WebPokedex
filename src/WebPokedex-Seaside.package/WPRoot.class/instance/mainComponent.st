@@ -1,4 +1,4 @@
 accessing
 mainComponent
 	self flag: #clean.
-	^ mainComponent ifNil: [ mainComponent := WPPokedexComponent new ]
+	^ mainComponent ifNil: [ mainComponent := WPPokedexComponent model: self model ]

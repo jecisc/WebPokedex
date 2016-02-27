@@ -1,3 +1,3 @@
 action
 logout
-    user := nil
+	self user: WPNilUser new

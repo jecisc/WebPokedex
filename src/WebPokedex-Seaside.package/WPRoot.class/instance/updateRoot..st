@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 updateRoot: anHtmlRoot
 	super updateRoot: anHtmlRoot.
 	self flag: #clean.

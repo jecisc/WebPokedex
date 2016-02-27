@@ -1,3 +1,5 @@
 rendering
 renderContentOn: html
-	html text: 'foo'
+	self session isLoggedIn
+		ifTrue: [ self renderComponentIfLoggedOn: html ]
+		ifFalse: [ self renderComponentIfLoggoutOn: html ]

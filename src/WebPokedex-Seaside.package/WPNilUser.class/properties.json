@@ -3,13 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"UniqueInstance" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"users",
-		"model" ],
-	"name" : "WPServer",
+		 ],
+	"name" : "WPNilUser",
 	"pools" : [
 		 ],
-	"super" : "WPObject",
+	"super" : "WPUser",
 	"type" : "normal" }

@@ -2,4 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"renderContentOn:" : "CyrilFerlicot 2/25/2016 11:55" } }
+		"login" : "CyrilFerlicot 2/26/2016 20:32",
+		"logout" : "CyrilFerlicot 2/26/2016 20:30",
+		"renderComponentIfLoggedOn:" : "CyrilFerlicot 2/26/2016 20:55",
+		"renderComponentIfLoggoutOn:" : "CyrilFerlicot 2/26/2016 22:41",
+		"renderContentOn:" : "CyrilFerlicot 2/26/2016 20:56" } }

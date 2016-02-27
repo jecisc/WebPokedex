@@ -1,3 +1,3 @@
 testing
 isLoggedIn
-    ^ user isNotNil
+    ^ self user isLoggedIn

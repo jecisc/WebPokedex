@@ -1,0 +1,3 @@
+*WebPokedex-Seaside
+isLoggedIn
+	^ true

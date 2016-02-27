@@ -64,6 +64,6 @@ style
 	opacity: 0.5;
 }
 
-.pokemon .interactions img .isActive{
+.pokemon .interactions .isActive{
 	opacity: 0.9;
 }'

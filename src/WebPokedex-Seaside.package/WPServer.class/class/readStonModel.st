@@ -1,5 +1,9 @@
 serialization
 readStonModel
 	<script>
+	| server |
 	self flag: #todo.	"Use a context in the future"
-	self readStonModelFrom: '../../GitRepositories/WebPokedex/Ressources/serializedServer.ston'
+	server := self
+		readStonModelFrom: '../../GitRepositories/WebPokedex/Ressources/serializedServer.ston'.
+	server model postStonReaderActions.
+	^ server

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"initialize" : "CyrilFerlicot 3/3/2016 21:24" },
+	"instance" : {
+		"handleFiltered:" : "CyrilFerlicot 3/3/2016 21:46",
+		"serialize" : "CyrilFerlicot 3/3/2016 21:57",
+		"serializeInLogNamed:" : "CyrilFerlicot 3/3/2016 21:56",
+		"server" : "CyrilFerlicot 3/3/2016 21:36" } }

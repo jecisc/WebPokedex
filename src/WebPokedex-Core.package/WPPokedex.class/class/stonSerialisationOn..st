@@ -1,3 +1,0 @@
-serialization
-stonSerialisationOn: aFileName
-	FileStream forceNewFileNamed: aFileName do: [ :stream | stream nextPutAll: (STON toStringPretty: WPPokedex saved) ]

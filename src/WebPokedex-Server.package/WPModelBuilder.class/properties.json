@@ -1,0 +1,14 @@
+{
+	"category" : "WebPokedex-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WPModelBuilder",
+	"pools" : [
+		 ],
+	"super" : "WPObject",
+	"type" : "normal" }

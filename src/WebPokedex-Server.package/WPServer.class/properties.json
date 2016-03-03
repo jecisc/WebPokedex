@@ -1,0 +1,15 @@
+{
+	"category" : "WebPokedex-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"users",
+		"model" ],
+	"name" : "WPServer",
+	"pools" : [
+		 ],
+	"super" : "WPObject",
+	"type" : "normal" }

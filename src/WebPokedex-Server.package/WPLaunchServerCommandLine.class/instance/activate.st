@@ -1,0 +1,3 @@
+activation
+activate
+	WPServer readStonModel

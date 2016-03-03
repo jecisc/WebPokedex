@@ -7,6 +7,5 @@ Metacello new
   onWarningLog;
   load.
 
-WPServer readStonModel.
-WPServer current launchImagesServer
+WPServer readStonModel
 ```

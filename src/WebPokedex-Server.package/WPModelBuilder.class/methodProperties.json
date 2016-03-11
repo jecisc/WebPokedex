@@ -1,7 +1,9 @@
 {
 	"class" : {
+		"addAllPokemonsImagesFrom:to:" : "CyrilFerlicot 3/11/2016 23:14",
 		"pokedex" : "CyrilFerlicot 2/24/2016 22:19",
 		"pokemons" : "CyrilFerlicot 2/13/2016 22:17" },
 	"instance" : {
-		"getPokemonsNames" : "CyrilFerlicot 2/14/2016 00:51",
-		"pokemons" : "CyrilFerlicot 2/24/2016 22:29" } }
+		"getPokemonsNames" : "CyrilFerlicot 3/11/2016 21:44",
+		"pokemonForId:retry:" : "CyrilFerlicot 3/11/2016 22:05",
+		"pokemons" : "CyrilFerlicot 3/11/2016 22:05" } }

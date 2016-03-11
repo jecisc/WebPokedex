@@ -1,3 +1,8 @@
 activation
 activate
-	WPServer readStonModel
+	WPServer readStonModel.
+	self
+		unregisterUselessTools;
+		protectConfigByPassword;
+		protectToolsByPassword;
+		setPokedexAsDefault

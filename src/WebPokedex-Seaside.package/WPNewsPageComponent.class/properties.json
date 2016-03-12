@@ -1,0 +1,14 @@
+{
+	"category" : "WebPokedex-Seaside-Componant",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"newsComponents" ],
+	"name" : "WPNewsPageComponent",
+	"pools" : [
+		 ],
+	"super" : "WPComponent",
+	"type" : "normal" }

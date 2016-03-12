@@ -1,0 +1,16 @@
+{
+	"category" : "WebPokedex-Seaside-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"content",
+		"date" ],
+	"name" : "WPNews",
+	"pools" : [
+		 ],
+	"super" : "WPObject",
+	"type" : "normal" }

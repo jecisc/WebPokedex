@@ -3,9 +3,10 @@
 		"commandName" : "CyrilFerlicot 3/3/2016 11:29",
 		"description" : "CyrilFerlicot 3/3/2016 11:30" },
 	"instance" : {
-		"activate" : "CyrilFerlicot 3/11/2016 21:26",
+		"activate" : "CyrilFerlicot 3/12/2016 13:57",
 		"applicationsToUnregister" : "CyrilFerlicot 3/11/2016 21:13",
 		"protectConfigByPassword" : "CyrilFerlicot 3/11/2016 21:27",
 		"protectToolsByPassword" : "CyrilFerlicot 3/11/2016 21:26",
 		"setPokedexAsDefault" : "CyrilFerlicot 3/11/2016 21:26",
+		"startServerAdaptor" : "CyrilFerlicot 3/12/2016 14:00",
 		"unregisterUselessTools" : "CyrilFerlicot 3/11/2016 21:12" } }

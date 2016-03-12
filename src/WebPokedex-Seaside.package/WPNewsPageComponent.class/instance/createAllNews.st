@@ -8,7 +8,9 @@ createAllNews
 	newsDirectory exists
 		ifFalse: [ ^ self ].
 		
-	newsDirectory allChildren
+	newsDirectory allFiles
 		do: [ :file | 
 			(file basename beginsWith: 'News')
 				ifTrue: [ self createNewsFrom: file ] ].
+		
+	self newsComponents sort

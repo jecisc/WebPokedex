@@ -1,3 +1,5 @@
 rendering
 renderContentOn: html
-	self flag: #todo
+	html div
+		class: 'news';
+		with: [ self newsComponents do: [ :news | html render: news ] ]

@@ -1,0 +1,3 @@
+comparing
+> aNews
+	^ aNews < self

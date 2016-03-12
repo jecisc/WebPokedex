@@ -1,10 +1,16 @@
 {
 	"class" : {
+		"titled:content:" : "CyrilFerlicot 3/12/2016 15:50",
 		"titled:the:content:" : "CyrilFerlicot 3/4/2016 17:19" },
 	"instance" : {
+		"<" : "CyrilFerlicot 3/12/2016 15:24",
+		"<=" : "CyrilFerlicot 3/12/2016 15:25",
+		">" : "CyrilFerlicot 3/12/2016 15:25",
+		">=" : "CyrilFerlicot 3/12/2016 15:27",
 		"content" : "CyrilFerlicot 3/4/2016 17:19",
 		"content:" : "CyrilFerlicot 3/4/2016 17:19",
 		"date" : "CyrilFerlicot 3/4/2016 17:19",
 		"date:" : "CyrilFerlicot 3/4/2016 17:19",
+		"save" : "CyrilFerlicot 3/12/2016 15:22",
 		"title" : "CyrilFerlicot 3/4/2016 17:19",
 		"title:" : "CyrilFerlicot 3/4/2016 17:19" } }

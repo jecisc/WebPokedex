@@ -1,14 +1,14 @@
 {
-	"category" : "WebPokedex-Seaside-Core",
+	"category" : "WebPokedex-Seaside-Announcement",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"componentStack" ],
-	"name" : "WPRoot",
+		 ],
+	"name" : "WPPopRootStack",
 	"pools" : [
 		 ],
-	"super" : "WPComponent",
+	"super" : "Announcement",
 	"type" : "normal" }

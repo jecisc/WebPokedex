@@ -1,13 +1,13 @@
 {
-	"category" : "WebPokedex-Seaside-Core",
+	"category" : "WebPokedex-Seaside-Componant",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"componentStack" ],
-	"name" : "WPRoot",
+		 ],
+	"name" : "WPVersionComponent",
 	"pools" : [
 		 ],
 	"super" : "WPComponent",

@@ -1,0 +1,3 @@
+accessing
+componentStack
+	^ componentStack

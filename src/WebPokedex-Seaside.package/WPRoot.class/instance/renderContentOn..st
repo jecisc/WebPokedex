@@ -1,4 +1,6 @@
 rendering
 renderContentOn: html
-	html render: WPLoginComponent new.
-	html render: self mainComponent
+	html
+		render: WPLoginComponent new;
+		render: WPVersionComponent new;
+		render: self component

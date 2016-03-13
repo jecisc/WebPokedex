@@ -1,10 +1,16 @@
 {
 	"class" : {
-		"initialize" : "CyrilFerlicot 3/12/2016 16:24" },
+		"initialize" : "CyrilFerlicot 3/12/2016 16:24",
+		"useInImageDebugger" : "CyrilFerlicot 3/13/2016 02:18" },
 	"instance" : {
-		"mainComponent" : "CyrilFerlicot 3/12/2016 15:56",
-		"mainComponent:" : "CyrilFerlicot 2/14/2016 13:17",
+		"addToStack:" : "CyrilFerlicot 3/13/2016 02:19",
+		"component" : "CyrilFerlicot 3/13/2016 01:42",
+		"componentStack" : "CyrilFerlicot 3/13/2016 01:32",
+		"componentStack:" : "CyrilFerlicot 3/13/2016 01:32",
+		"initialize" : "CyrilFerlicot 3/13/2016 01:43",
+		"initializeAnnouncements" : "CyrilFerlicot 3/13/2016 01:39",
 		"model" : "CyrilFerlicot 2/26/2016 22:05",
-		"renderContentOn:" : "CyrilFerlicot 2/26/2016 20:41",
-		"style" : "CyrilFerlicot 2/24/2016 20:38",
+		"popStack" : "CyrilFerlicot 3/13/2016 02:20",
+		"renderContentOn:" : "CyrilFerlicot 3/13/2016 02:09",
+		"style" : "CyrilFerlicot 3/13/2016 02:22",
 		"updateRoot:" : "CyrilFerlicot 3/11/2016 20:17" } }

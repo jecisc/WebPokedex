@@ -8,4 +8,5 @@ renderContentOn: html
 				with: 'News' ].
 	html div
 		class: 'pokedex';
-		with: [ self model pokemons do: [ :pokemon | html render: (WPPokemonComponent pokemon: pokemon) ] ]
+		with: [ self renderPagesButtonsOn: html.
+			(self model pokemonsAtPage: self currentPage) do: [ :pokemon | html render: (WPPokemonComponent pokemon: pokemon) ] ]

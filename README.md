@@ -7,5 +7,5 @@ Metacello new
   onWarningLog;
   load.
 
-WPServer readStonModel
+(Smalltalk at: #WPServer) readStonModel
 ```

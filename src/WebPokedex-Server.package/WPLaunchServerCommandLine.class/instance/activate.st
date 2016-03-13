@@ -6,4 +6,5 @@ activate
 		unregisterUselessTools;
 		protectConfigByPassword;
 		protectToolsByPassword;
+		removeDevToolbar;
 		setPokedexAsDefault

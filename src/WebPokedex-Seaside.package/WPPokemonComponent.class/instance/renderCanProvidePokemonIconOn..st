@@ -7,5 +7,6 @@ renderCanProvidePokemonIconOn: html
 			(html jQuery ajax
 				callback: [ self toggleCanProvidePokemon ];
 				context: (JSStream on: 'this');
-				onComplete:  'toggleProvidePokemon($(this).closest(".pokemon"))');
+				onSuccess:  'toggleProvidePokemon($(this).closest(".pokemon"))');
+				onError: 'location.reload()'; "We will get an error if the session expire."
 		url: (self library urlOf: 'catchedPng')

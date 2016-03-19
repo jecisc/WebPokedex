@@ -1,4 +1,4 @@
-rendering
+actions
 toggleCanProvidePokemon
 	(self currentUser canProvide: self pokemon)
 		ifTrue: [ self currentUser removeAvailablePokemon: self pokemon ]

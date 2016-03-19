@@ -1,4 +1,4 @@
-rendering
+actions
 toggelHavePokemon
 	(self currentUser have: self pokemon)
 		ifTrue: [ self currentUser removePokemon: self pokemon ]

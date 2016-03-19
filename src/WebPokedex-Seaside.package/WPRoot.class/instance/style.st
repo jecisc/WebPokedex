@@ -8,6 +8,10 @@ style
 	font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 
+.iconProvide, .iconHave {
+    cursor: pointer;
+}
+
 .login{
 	width: 70%;
 	float: left;

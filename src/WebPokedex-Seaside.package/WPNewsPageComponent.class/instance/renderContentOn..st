@@ -8,7 +8,7 @@ renderContentOn: html
 				with: 'Return to Pokedex' ].
 	html div
 		class: 'news';
-		with: [ self newsComponents
+		with: [ self newsComponents reverse
 				do: [ :news | 
 					html
 						render: news;

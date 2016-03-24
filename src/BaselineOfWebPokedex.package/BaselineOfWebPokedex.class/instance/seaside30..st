@@ -7,5 +7,5 @@ seaside30: spec
 		with:
 			[ spec
 				className: 'ConfigurationOfSeaside3';
-				version: #stable;
+				version: #'release3.2';
 				repository: 'http://smalltalkhub.com/mc/Seaside/MetacelloConfigurations/main' ]

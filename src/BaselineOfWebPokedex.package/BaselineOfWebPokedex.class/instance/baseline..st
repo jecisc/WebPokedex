@@ -3,11 +3,15 @@ baseline: spec
 	<baseline>
 	spec
 		for: #common
-		do:
-			[ self
+		do: [ self
 				json: spec;
 				seaside30: spec.
 			spec
 				package: 'WebPokedex-Core';
 				package: 'WebPokedex-Seaside' with: [ spec requires: #('Seaside30' 'WebPokedex-Core') ];
-				package: 'WebPokedex-Server' with: [ spec requires: #('WebPokedex-Seaside' 'JSON') ] ]
+				package: 'WebPokedex-Server' with: [ spec requires: #('WebPokedex-Seaside' 'JSON') ].
+			spec package: 'WebPokedex-Tests-Core' with: [ spec requires: #('WebPokedex-Core') ].
+			spec
+				group: 'Tests' with: #('WebPokedex-Tests-Core');
+				group: 'Model' with: #('WebPokedex-Core');
+				group: 'UI' with: #('WebPokedex-Seaside') ]

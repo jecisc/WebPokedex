@@ -1,3 +1,0 @@
-helpers
-newInstance
-	^ WPUser new

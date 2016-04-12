@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"user",
+		"pokemon" ],
 	"name" : "WPUserTest",
 	"pools" : [
 		 ],

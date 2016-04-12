@@ -2,6 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"newInstance" : "CyrilFerlicot 3/27/2016 00:36",
-		"testCanProvide" : "CyrilFerlicot 3/27/2016 01:07",
-		"testHave" : "CyrilFerlicot 3/27/2016 00:58" } }
+		"actualClass" : "CyrilFerlicot 4/12/2016 23:22",
+		"setUp" : "CyrilFerlicot 4/12/2016 23:22",
+		"testAddAvailablePokemon" : "CyrilFerlicot 4/12/2016 23:24",
+		"testAddPokemon" : "CyrilFerlicot 4/12/2016 23:23",
+		"testCanProvide" : "CyrilFerlicot 4/12/2016 23:23",
+		"testHave" : "CyrilFerlicot 4/12/2016 23:23",
+		"testRemoveAvailablePokemon" : "CyrilFerlicot 4/12/2016 23:25",
+		"testRemovePokemon" : "CyrilFerlicot 4/12/2016 23:25" } }

@@ -1,3 +1,3 @@
 comparing
 = anObject
-	^ self species = anObject species and: [ self name = anObject name ]
+	^ self species = anObject species and: [ self id = anObject id ]

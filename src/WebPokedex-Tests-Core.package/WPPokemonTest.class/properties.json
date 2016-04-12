@@ -1,0 +1,14 @@
+{
+	"category" : "WebPokedex-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pokemon" ],
+	"name" : "WPPokemonTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

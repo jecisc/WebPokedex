@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 4/12/2016 23:34",
+		"setUp" : "CyrilFerlicot 4/12/2016 23:35",
+		"testComparaisons" : "CyrilFerlicot 4/12/2016 23:39",
+		"testEquals" : "CyrilFerlicot 4/12/2016 23:41",
+		"testHash" : "CyrilFerlicot 4/12/2016 23:43" } }

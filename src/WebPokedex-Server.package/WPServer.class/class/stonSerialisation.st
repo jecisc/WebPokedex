@@ -1,5 +1,5 @@
 serialization
 stonSerialisation
 	<script>
-	self flag: #todo.	"Use a context in the future"
+	self flag: #context.	"Use a context in the future"
 	self stonSerialisationOn: '../../GitRepositories/WebPokedex/Ressources/serializedServer.ston'

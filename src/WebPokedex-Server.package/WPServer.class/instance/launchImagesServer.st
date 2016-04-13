@@ -1,6 +1,6 @@
 server - image
 launchImagesServer
-	self flag: #clean. "Use a context latter"
+	self flag: #context. "Use a context latter"
 	(ZnServer defaultOn: 1701)
 		logToTranscript;
 		delegate:

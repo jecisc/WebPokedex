@@ -1,4 +1,3 @@
 removing
-removeAvailablePokemon: aPokemon 
-	self flag: #test.
+removeAvailablePokemon: aPokemon
 	self availablePokemons remove: aPokemon

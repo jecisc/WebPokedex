@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 4/12/2016 23:22",
+		"setUp" : "CyrilFerlicot 4/12/2016 23:22",
+		"testAddAvailablePokemon" : "CyrilFerlicot 4/12/2016 23:24",
+		"testAddPokemon" : "CyrilFerlicot 4/12/2016 23:23",
+		"testCanProvide" : "CyrilFerlicot 4/12/2016 23:23",
+		"testHave" : "CyrilFerlicot 4/12/2016 23:23",
+		"testRemoveAvailablePokemon" : "CyrilFerlicot 4/12/2016 23:25",
+		"testRemovePokemon" : "CyrilFerlicot 4/12/2016 23:25" } }

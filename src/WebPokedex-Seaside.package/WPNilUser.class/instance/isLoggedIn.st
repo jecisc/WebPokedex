@@ -1,3 +1,3 @@
-*WebPokedex-Seaside
+testing
 isLoggedIn
 	^ false

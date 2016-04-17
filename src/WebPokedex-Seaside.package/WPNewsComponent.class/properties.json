@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "CyrilFerlicot 4/17/2016 17:18",
 	"instvars" : [
 		"news" ],
 	"name" : "WPNewsComponent",

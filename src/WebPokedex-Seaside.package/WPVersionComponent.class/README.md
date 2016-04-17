@@ -1,0 +1,1 @@
+I am a really really simple component to render the version of the application.

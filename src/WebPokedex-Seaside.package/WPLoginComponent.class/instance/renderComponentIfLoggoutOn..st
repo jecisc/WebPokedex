@@ -2,9 +2,8 @@ rendering
 renderComponentIfLoggoutOn: html
 	html
 		form: [ html text: 'User: '.
-			self flag: #todo.	"Clean the reference to the singleton :("
 			html select
-				list: WPServer current users;
+				list: self server users;
 				labels: [ :user | user pseudo ];
-				callback: [ :user | self session user: user ].
+				callback: [ :user | self log: user ].
 			html submitButton ]

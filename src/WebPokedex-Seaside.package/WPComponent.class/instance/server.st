@@ -1,0 +1,3 @@
+convenience
+server
+	^ WPServer current

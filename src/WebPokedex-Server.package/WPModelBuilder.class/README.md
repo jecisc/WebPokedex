@@ -1,0 +1,1 @@
+I am a helper to generate the model.  I should be able to generate the pokedex and get the images of all pokemons.

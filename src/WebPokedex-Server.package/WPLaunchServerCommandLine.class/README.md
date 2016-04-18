@@ -1,0 +1,1 @@
+I am a command line to launch the server and deploy the application. 

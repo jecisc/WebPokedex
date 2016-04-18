@@ -10,8 +10,7 @@ I should be mainly use by a WPNewsPageComponent
 Example
 ------------------
 
-	WPNewsComponent new
-		news: (WPNews titled: 'This is a news!' content: '<p> This is a <b>news</b>!</p>')
+	WPNewsComponent news: (WPNews titled: 'This is a news!' content: '<p> This is a <b>news</b>!</p>')
  
 Internal Representation and Key Implementation Points.
 -----------------

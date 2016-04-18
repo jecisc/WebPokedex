@@ -1,4 +1,4 @@
-as yet unclassified
+news creation
 createAllNews
 	| newsDirectory |
 	self flag: #improve.	"For now we read and display all news. Latter it is better to jsut read the titles and then use ajax to create them."

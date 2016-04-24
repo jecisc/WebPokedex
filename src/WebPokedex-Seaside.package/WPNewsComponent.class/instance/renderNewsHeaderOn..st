@@ -7,4 +7,4 @@ renderNewsHeaderOn: html
 				with: self news title.
 			html span
 				class: 'date';
-				with: self formatedDate ]
+				with: self news formatedDate ]

@@ -5,7 +5,8 @@ testNewsCanBeSorted
 		withAll:
 			({DateAndTime today.
 			DateAndTime yesterday.
-			DateAndTime tomorrow} collect: [ :date | WPNews titled: 'fake' the: date content: 'fake' ]).
+			DateAndTime tomorrow}
+				collect: [ :date | self actualClass titled: 'fake' the: date content: 'fake' ]).
 	self assert: news first date equals: DateAndTime today.
 	news sort.
 	self assert: news first date equals: DateAndTime yesterday.

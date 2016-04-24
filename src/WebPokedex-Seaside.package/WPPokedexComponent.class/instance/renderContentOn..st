@@ -4,7 +4,7 @@ renderContentOn: html
 	html div
 		class: 'links';
 		with: [ html anchor
-				callback: [ SystemAnnouncer uniqueInstance weak announce: (WPPushToRootStack push: WPNewsPageComponent new) ];
+				callback: [ SystemAnnouncer uniqueInstance announce: (WPPushToRootStack push: WPNewsPageComponent new) ];
 				with: 'News' ].
 	html div
 		class: 'pokedex';

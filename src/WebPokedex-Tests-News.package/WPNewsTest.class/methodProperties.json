@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testNewsCanBeSorted" : "CyrilFerlicot 4/18/2016 20:40" } }
+		"actualClass" : "CyrilFerlicot 4/24/2016 22:37",
+		"testFormatedDate" : "CyrilFerlicot 4/24/2016 22:42",
+		"testNewsCanBeSorted" : "CyrilFerlicot 4/24/2016 22:37" } }

@@ -1,0 +1,3 @@
+accessing
+imagesDirectory
+	^ self imagesDirectoryPath asFileReference

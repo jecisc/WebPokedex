@@ -1,0 +1,3 @@
+accessing
+serverSerializedDirectoryPath: anObject
+	serverSerializedDirectoryPath := anObject

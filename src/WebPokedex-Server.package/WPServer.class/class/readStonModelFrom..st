@@ -1,3 +1,3 @@
 serialization
-readStonModelFrom: aFileName
-	^ UniqueInstance := STON fromString: (FileSystem workingDirectory resolve: aFileName) contents
+readStonModelFrom: aFile
+	^ UniqueInstance := STON fromString: aFile contents

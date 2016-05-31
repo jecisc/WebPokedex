@@ -1,16 +1,15 @@
 {
-	"category" : "WebPokedex-News-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "CyrilFerlicot 4/13/2016 23:41",
+	"super" : "WPObject",
+	"category" : "WebPokedex-News-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"title",
 		"content",
-		"date" ],
+		"date"
+	],
 	"name" : "WPNews",
-	"pools" : [
-		 ],
-	"super" : "WPObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,5 +1,5 @@
 server - image
-launchImagesServer
+SlaunchImagesServer
 	(ZnServer defaultOn: 1701)
 		logToTranscript;
 		delegate:

@@ -1,5 +1,4 @@
 serialization
 stonSerialisation
 	<script>
-	self flag: #context.	"Use a context in the future"
-	self stonSerialisationOn: '../../GitRepositories/WebPokedex/Ressources/serializedServer.ston'
+	self stonSerialisationOn: ((self currentContext serverSerializedDirectory / 'server.ston') relativeTo: (FileLocator imageDirectory asFileReference))

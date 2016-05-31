@@ -1,15 +1,17 @@
 {
-	"category" : "WebPokedex-Server",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"UniqueInstance" ],
 	"commentStamp" : "CyrilFerlicot 4/18/2016 23:54",
+	"super" : "WPObject",
+	"category" : "WebPokedex-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
 	"instvars" : [
 		"users",
-		"model" ],
+		"model",
+		"context"
+	],
 	"name" : "WPServer",
-	"pools" : [
-		 ],
-	"super" : "WPObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

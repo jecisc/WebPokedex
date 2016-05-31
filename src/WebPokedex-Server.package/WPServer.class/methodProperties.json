@@ -1,20 +1,33 @@
 {
-	"class" : {
-		"current" : "CyrilFerlicot 2/23/2016 21:49",
-		"fromSton:" : "CyrilFerlicot 3/3/2016 10:30",
-		"launch" : "CyrilFerlicot 2/23/2016 21:53",
-		"new" : "CyrilFerlicot 2/23/2016 21:48",
-		"readStonModel" : "CyrilFerlicot 4/13/2016 21:18",
-		"readStonModelFrom:" : "CyrilFerlicot 3/3/2016 11:04",
-		"stonSerialisation" : "CyrilFerlicot 4/13/2016 21:18",
-		"stonSerialisationOn:" : "CyrilFerlicot 2/26/2016 22:26",
-		"version" : "CyrilFerlicot 3/24/2016 20:22" },
 	"instance" : {
-		"initialize" : "CyrilFerlicot 3/3/2016 10:31",
-		"launchImagesServer" : "CyrilFerlicot 4/13/2016 21:18",
+		"SlaunchImagesServer" : "CyrilFerlicot 5/31/2016 23:41",
 		"model" : "CyrilFerlicot 2/26/2016 21:06",
-		"model:" : "CyrilFerlicot 2/26/2016 21:06",
-		"stopImagesServer" : "CyrilFerlicot 2/23/2016 21:52",
-		"urlOf:" : "CyrilFerlicot 4/13/2016 21:18",
+		"readContextFromString:" : "CyrilFerlicot 5/31/2016 23:25",
 		"users" : "CyrilFerlicot 2/26/2016 20:25",
-		"users:" : "CyrilFerlicot 2/26/2016 20:25" } }
+		"model:" : "CyrilFerlicot 2/26/2016 21:06",
+		"context:" : "CyrilFerlicot 5/31/2016 22:58",
+		"initialize" : "CyrilFerlicot 6/1/2016 00:02",
+		"launchImagesServer" : "CyrilFerlicot 5/31/2016 23:41",
+		"readContextFromStream:" : "CyrilFerlicot 5/31/2016 23:24",
+		"context" : "CyrilFerlicot 5/31/2016 22:58",
+		"readContextFromFile:" : "CyrilFerlicot 5/31/2016 23:26",
+		"stopImagesServer" : "CyrilFerlicot 2/23/2016 21:52",
+		"urlOf:" : "CyrilFerlicot 5/31/2016 23:41",
+		"users:" : "CyrilFerlicot 2/26/2016 20:25"
+	},
+	"class" : {
+		"launch" : "CyrilFerlicot 2/23/2016 21:53",
+		"readStonModelWithContext:" : "CyrilFerlicot 6/1/2016 00:10",
+		"stonSerialisationOn:" : "CyrilFerlicot 2/26/2016 22:26",
+		"version" : "CyrilFerlicot 3/24/2016 20:22",
+		"current" : "CyrilFerlicot 2/23/2016 21:49",
+		"stonAllInstVarNames" : "CyrilFerlicot 5/31/2016 23:51",
+		"stonSerialisation" : "CyrilFerlicot 5/31/2016 23:48",
+		"new" : "CyrilFerlicot 2/23/2016 21:48",
+		"readStonModelWithContextFile:" : "CyrilFerlicot 6/1/2016 00:11",
+		"fromSton:" : "CyrilFerlicot 3/3/2016 10:30",
+		"readStonModelFrom:" : "CyrilFerlicot 5/31/2016 23:43",
+		"newServerWithContext:" : "CyrilFerlicot 6/1/2016 00:04",
+		"currentContext" : "CyrilFerlicot 5/31/2016 23:37"
+	}
+}

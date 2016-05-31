@@ -1,0 +1,1 @@
+WPContext {	#port : 80,	#newsDirectoryPath : '../../GitRepositories/WebPokedex/Ressources/News',	#imagesDirectoryPath : '../../GitRepositories/WebPokedex/Ressources/pokemonsImages',	#imagesURL : 'http://pokedex.ferlicot.fr:1701/images',	#serverSerializedDirectoryPath : '../../GitRepositories/WebPokedex/Ressources'}

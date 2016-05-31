@@ -1,14 +1,11 @@
 {
-	"category" : "WebPokedex-Seaside-Componant",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "CyrilFerlicot 4/17/2016 17:07",
-	"instvars" : [
-		 ],
-	"name" : "WPLoginComponent",
-	"pools" : [
-		 ],
 	"super" : "WPComponent",
-	"type" : "normal" }
+	"category" : "WebPokedex-Seaside-Componant",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WPLoginComponent",
+	"type" : "normal"
+}

@@ -1,13 +1,16 @@
 {
-	"class" : {
-		"commandName" : "CyrilFerlicot 3/3/2016 11:29",
-		"description" : "CyrilFerlicot 3/3/2016 11:30" },
 	"instance" : {
-		"activate" : "CyrilFerlicot 3/12/2016 16:20",
-		"applicationsToUnregister" : "CyrilFerlicot 3/12/2016 23:56",
 		"protectConfigByPassword" : "CyrilFerlicot 3/11/2016 21:27",
-		"protectToolsByPassword" : "CyrilFerlicot 3/11/2016 21:26",
-		"removeDevToolbar" : "CyrilFerlicot 4/13/2016 21:12",
-		"setPokedexAsDefault" : "CyrilFerlicot 3/11/2016 21:26",
+		"unregisterUselessTools" : "CyrilFerlicot 3/11/2016 21:12",
+		"applicationsToUnregister" : "CyrilFerlicot 3/12/2016 23:56",
 		"startServerAdaptor" : "CyrilFerlicot 4/13/2016 21:17",
-		"unregisterUselessTools" : "CyrilFerlicot 3/11/2016 21:12" } }
+		"protectToolsByPassword" : "CyrilFerlicot 3/11/2016 21:26",
+		"activate" : "CyrilFerlicot 3/12/2016 16:20",
+		"removeDevToolbar" : "CyrilFerlicot 4/13/2016 21:12",
+		"setPokedexAsDefault" : "CyrilFerlicot 3/11/2016 21:26"
+	},
+	"class" : {
+		"description" : "CyrilFerlicot 3/3/2016 11:30",
+		"commandName" : "CyrilFerlicot 3/3/2016 11:29"
+	}
+}

@@ -1,3 +1,3 @@
 components - management
-addToStack: anAnnouncement
-	self componentStack push: anAnnouncement component
+addToStack: aComponent
+	self componentStack push: aComponent

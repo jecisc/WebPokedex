@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"canProvide:" : "CyrilFerlicot 2/26/2016 20:38",
-		"have:" : "CyrilFerlicot 2/26/2016 20:38",
 		"isLoggedIn" : "CyrilFerlicot 2/26/2016 20:40",
-		"pseudo" : "CyrilFerlicot 2/26/2016 20:39" } }
+		"have:" : "CyrilFerlicot 2/26/2016 20:38",
+		"canProvide:" : "CyrilFerlicot 2/26/2016 20:38",
+		"pseudo" : "CyrilFerlicot 2/26/2016 20:39"
+	},
+	"class" : { }
+}

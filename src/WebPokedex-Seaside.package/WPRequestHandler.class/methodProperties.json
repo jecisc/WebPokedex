@@ -1,8 +1,11 @@
 {
-	"class" : {
-		"initialize" : "CyrilFerlicot 4/13/2016 21:08" },
 	"instance" : {
-		"handleFiltered:" : "CyrilFerlicot 3/3/2016 21:46",
+		"server" : "CyrilFerlicot 3/3/2016 21:36",
 		"serialize" : "CyrilFerlicot 3/14/2016 22:18",
-		"serializeInLogNamed:" : "CyrilFerlicot 3/3/2016 21:56",
-		"server" : "CyrilFerlicot 3/3/2016 21:36" } }
+		"handleFiltered:" : "CyrilFerlicot 3/3/2016 21:46",
+		"serializeInLogNamed:" : "CyrilFerlicot 3/3/2016 21:56"
+	},
+	"class" : {
+		"initialize" : "CyrilFerlicot 4/13/2016 21:08"
+	}
+}

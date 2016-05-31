@@ -1,8 +1,12 @@
 {
-	"class" : {
-		"style" : "CyrilFerlicot 2/23/2016 22:54" },
 	"instance" : {
-		"currentUser" : "CyrilFerlicot 2/26/2016 00:15",
+		"root" : "CyrilFerlicot 5/31/2016 22:36",
 		"english:french:" : "CyrilFerlicot 2/14/2016 13:05",
 		"library" : "CyrilFerlicot 2/26/2016 00:15",
-		"server" : "CyrilFerlicot 4/18/2016 20:59" } }
+		"currentUser" : "CyrilFerlicot 2/26/2016 00:15",
+		"server" : "CyrilFerlicot 4/18/2016 20:59"
+	},
+	"class" : {
+		"style" : "CyrilFerlicot 2/23/2016 22:54"
+	}
+}

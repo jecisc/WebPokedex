@@ -14,4 +14,5 @@ Public API and Key Messages
 Internal Representation and Key Implementation Points.
 
     Instance Variables
-	user:		<aUser> 		The current user of the application.
+	user:		<aUser> 			The current user of the application.
+	root: 		<aComponent>	A seaside component that is the root of the application

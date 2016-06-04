@@ -1,3 +1,3 @@
 accessing
-newsDirectoryPath: anObject
-	newsDirectoryPath := anObject
+newsDirectoryPath: aPathString
+	self parameters at: 'newsDirectoryPath' put: aPathString

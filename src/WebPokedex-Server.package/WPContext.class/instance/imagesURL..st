@@ -1,3 +1,3 @@
 accessing
-imagesURL: anObject
-	imagesURL := anObject
+imagesURL: anURLString
+	self parameters at: 'imagesURL' put: anURLString

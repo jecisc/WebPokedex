@@ -1,3 +1,3 @@
 accessing
-serverSerializedDirectoryPath: anObject
-	serverSerializedDirectoryPath := anObject
+serverSerializedDirectoryPath: aPathString
+	self parameters at: 'serverSerializedDirectoryPath' put: aPathString

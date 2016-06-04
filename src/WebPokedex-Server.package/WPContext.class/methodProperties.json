@@ -1,18 +1,21 @@
 {
 	"instance" : {
-		"imagesURL" : "CyrilFerlicot 5/31/2016 23:06",
+		"imagesURL" : "CyrilFerlicot 6/5/2016 00:46",
+		"parameters" : "CyrilFerlicot 6/4/2016 23:59",
 		"serverSerializedDirectory" : "CyrilFerlicot 5/31/2016 23:35",
-		"port" : "CyrilFerlicot 5/31/2016 23:06",
+		"port" : "CyrilFerlicot 6/5/2016 00:45",
 		"imagesDirectory" : "CyrilFerlicot 5/31/2016 23:33",
-		"newsDirectoryPath" : "CyrilFerlicot 5/31/2016 23:06",
-		"newsDirectoryPath:" : "CyrilFerlicot 5/31/2016 23:06",
-		"serverSerializedDirectoryPath:" : "CyrilFerlicot 5/31/2016 23:35",
-		"imagesURL:" : "CyrilFerlicot 5/31/2016 23:06",
-		"serverSerializedDirectoryPath" : "CyrilFerlicot 5/31/2016 23:35",
-		"imagesDirectoryPath:" : "CyrilFerlicot 5/31/2016 23:06",
-		"port:" : "CyrilFerlicot 5/31/2016 23:06",
+		"parameters:" : "CyrilFerlicot 6/4/2016 23:59",
+		"newsDirectoryPath" : "CyrilFerlicot 6/5/2016 00:43",
+		"initialize" : "CyrilFerlicot 6/5/2016 00:00",
+		"newsDirectoryPath:" : "CyrilFerlicot 6/5/2016 00:10",
+		"serverSerializedDirectoryPath:" : "CyrilFerlicot 6/5/2016 00:10",
+		"imagesURL:" : "CyrilFerlicot 6/5/2016 00:09",
+		"serverSerializedDirectoryPath" : "CyrilFerlicot 6/5/2016 00:44",
+		"imagesDirectoryPath:" : "CyrilFerlicot 6/5/2016 00:09",
+		"port:" : "CyrilFerlicot 6/5/2016 00:10",
 		"newsDirectory" : "CyrilFerlicot 5/31/2016 23:33",
-		"imagesDirectoryPath" : "CyrilFerlicot 5/31/2016 23:06"
+		"imagesDirectoryPath" : "CyrilFerlicot 6/5/2016 00:43"
 	},
 	"class" : { }
 }

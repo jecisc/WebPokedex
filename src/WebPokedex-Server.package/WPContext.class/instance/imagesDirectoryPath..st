@@ -1,3 +1,3 @@
 accessing
-imagesDirectoryPath: anObject
-	imagesDirectoryPath := anObject
+imagesDirectoryPath: aPathString
+	self parameters at: 'imagesDirectoryPath' put: aPathString

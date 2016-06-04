@@ -1,3 +1,3 @@
 accessing
-port: anObject
-	port := anObject
+port: anInteger
+	self parameters at: 'port' put: anInteger

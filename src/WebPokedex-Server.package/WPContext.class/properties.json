@@ -1,16 +1,12 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "CyrilFerlicot 6/5/2016 00:42",
 	"super" : "WPObject",
 	"category" : "WebPokedex-Server",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"port",
-		"newsDirectoryPath",
-		"imagesDirectoryPath",
-		"imagesURL",
-		"serverSerializedDirectoryPath"
+		"parameters"
 	],
 	"name" : "WPContext",
 	"type" : "normal"

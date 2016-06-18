@@ -1,0 +1,3 @@
+components
+defaultFooter
+	^ WPFooter new

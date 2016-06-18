@@ -1,15 +1,21 @@
 {
 	"instance" : {
-		"style" : "CyrilFerlicot 3/19/2016 00:55",
-		"updateRoot:" : "CyrilFerlicot 3/11/2016 20:17",
+		"style" : "CyrilFerlicot 6/19/2016 01:51",
 		"model" : "CyrilFerlicot 4/18/2016 21:00",
-		"renderContentOn:" : "CyrilFerlicot 6/18/2016 23:57",
+		"updateRoot:" : "CyrilFerlicot 6/19/2016 00:45",
+		"renderContentOn:" : "CyrilFerlicot 6/19/2016 01:17",
+		"defaultFooter" : "CyrilFerlicot 6/19/2016 00:54",
 		"component" : "CyrilFerlicot 3/13/2016 01:42",
-		"initialize" : "CyrilFerlicot 5/31/2016 22:32",
+		"header" : "CyrilFerlicot 6/19/2016 00:52",
+		"initialize" : "CyrilFerlicot 6/19/2016 00:57",
 		"componentStack" : "CyrilFerlicot 3/13/2016 01:32",
+		"header:" : "CyrilFerlicot 6/19/2016 00:52",
 		"componentStack:" : "CyrilFerlicot 3/13/2016 01:32",
 		"addToStack:" : "CyrilFerlicot 5/31/2016 22:35",
-		"popStack" : "CyrilFerlicot 3/13/2016 02:20"
+		"footer" : "CyrilFerlicot 6/19/2016 00:52",
+		"popStack" : "CyrilFerlicot 3/13/2016 02:20",
+		"defaultHeader" : "CyrilFerlicot 6/19/2016 00:53",
+		"footer:" : "CyrilFerlicot 6/19/2016 00:52"
 	},
 	"class" : {
 		"initialize" : "CyrilFerlicot 6/19/2016 00:30",

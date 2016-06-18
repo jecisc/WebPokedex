@@ -5,7 +5,8 @@ baseline: spec
 		for: #common
 		do: [ self
 				json: spec;
-				seaside30: spec.
+				seaside30: spec;
+				mdl: spec.
 			spec
 				package: 'WebPokedex-Core';
 				package: 'WebPokedex-News';

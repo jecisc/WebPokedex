@@ -1,0 +1,3 @@
+components
+defaultLoginComponent
+	^ WPLoginComponent new

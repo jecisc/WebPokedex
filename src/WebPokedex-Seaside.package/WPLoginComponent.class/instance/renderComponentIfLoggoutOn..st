@@ -1,5 +1,10 @@
 rendering
 renderComponentIfLoggoutOn: html
+"
+html
+				mdlNavigationLink: [ html mdlIcon
+						class: #notLogged;
+						with: [ html mdlIcon: #power_settings_new ] ]."
 	html
 		form: [ html text: 'User: '.
 			html select

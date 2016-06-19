@@ -4,4 +4,8 @@ renderContentOn: html
 		scroll;
 		with: [ html
 				mdlLayoutHeaderRow: [ html mdlLayoutTitle: 'Pokedex'.
-					html mdlLayoutSpacer ] ]
+					html mdlLayoutSpacer.
+					html
+						mdlNavigation: [ html
+								mdlNavigationLink: [ html render: WPVersionComponent new ];
+								render: self loginComponent ] ] ]

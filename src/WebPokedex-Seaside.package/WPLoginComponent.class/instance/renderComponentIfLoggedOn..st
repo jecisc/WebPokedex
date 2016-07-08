@@ -7,7 +7,7 @@ renderComponentIfLoggedOn: html
 		callback: [ self logout ];
 		with: [ html mdlIcon
 				class: #logged;
-				with: [ html mdlIcon: #power_settings_new ].
+				with: #power_settings_new.
 			html mdlTooltip
 				large;
 				for: id;

@@ -18,12 +18,21 @@ main{
 	background-color: #C8C8C8;
 }
 
+.mdl-layout__header-row .mdl-navigation form .mdl-textfield{
+	width: 300px !important;
+}
+
+.mdl-layout__header-row .mdl-navigation form .mdl-textfield__input{
+	color: #000;
+}
+
 .logged{
 	color: #f44336;
 }
 
 .notLogged{
 	color: #4CAF50;
+	cursor: pointer;
 }
 
 .mdl-mini-footer{

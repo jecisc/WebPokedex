@@ -5,17 +5,19 @@ Description
 
 I display the current component of the application.
 
-For now I use a stack to save curent pages I need to display.
+I keep the instances of the windows I should display for now because I don't have a lot. Maybe later this should be improve because, for example, we do not need to remember the news page because the user will not check it a lot during a session. 
 
 Public API and Key Messages
 -------------------
 
-- #addToStack: aComponent 		Add a component to the stack. This one will be rendered.
-- #popStack 						I pop the component at the top of the stack.
+- #instanceOf: aComponentClass 		Return the instance of a class and create it by sending #new if the class was never displayed yet.
+- #setInstanceOf: aComponentClass 	I set as  current component the result of #instanceOf:
 
- 
 Internal Representation and Key Implementation Points.
 -------------------
 
     Instance Variables
-	componentStack:	<aStack> 	A stack of component. The one in top will be rendered on the root.
+	component:					<aComponent>	I am the current component to display of the application.
+	componentsInstances:		<aDictionary>	I contains the instances of the component I already displayed.
+	footer:						<aComponent>	I am a footer for the application.
+	header:						<aComponent>	I am a header for the application

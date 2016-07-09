@@ -26,6 +26,11 @@ main{
 	color: #000;
 }
 
+.mdl-layout__header-row a {
+    color: white;
+    text-decoration: none;
+}
+
 .logged{
 	color: #f44336;
 }

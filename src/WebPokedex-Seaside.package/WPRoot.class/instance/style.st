@@ -49,7 +49,30 @@ main{
 }
 
 .news{
-	display: inline-block;
+	width: 90%;
+	margin: 20px 5%;	
+}
+
+.newsTitle{
+    height: 176px;
+    color: #fff;	
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.newsDate h3{
+	text-align: right;
+   margin-right: 24px;
+   line-height: 2em;
+   font-weight: 700;
+   font-size: 14px;
+}
+
+.newsDate{
+	float: right;
 }
 '.
 			(WPComponent allSubclasses collect: #style) do: [ :style | s << style ] ]

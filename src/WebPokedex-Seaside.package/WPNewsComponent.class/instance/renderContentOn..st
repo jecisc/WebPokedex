@@ -5,7 +5,7 @@ renderContentOn: html
 			(MDLCardWidget new
 				class: #news;
 				shadow: 2;
-				title: self news title level: 2 class: #newsTitle;
+				addComponentOrBlock: self newTitleComponent;
 				title: self news formatedDate level: 3 class: #newsDate;
 				addTextContainer: [ html html: self news content ];
 				yourself)

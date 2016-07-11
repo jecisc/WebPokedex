@@ -1,10 +1,6 @@
 accessing
 style
 	^ '.pokemon{
-	width: 20%;
-	margin: 10px;
-	display: table;
-	float: left;
 	text-align: center;
 }
 

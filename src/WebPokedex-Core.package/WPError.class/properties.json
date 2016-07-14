@@ -1,14 +1,11 @@
 {
-	"category" : "WebPokedex-Core-Exception",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "CyrilFerlicot 4/13/2016 21:39",
-	"instvars" : [
-		 ],
-	"name" : "WPError",
-	"pools" : [
-		 ],
 	"super" : "Error",
-	"type" : "normal" }
+	"category" : "WebPokedex-Core-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WPError",
+	"type" : "normal"
+}

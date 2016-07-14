@@ -1,14 +1,11 @@
 {
-	"category" : "WebPokedex-Core-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "CyrilFerlicot 4/13/2016 21:38",
-	"instvars" : [
-		 ],
-	"name" : "WPObject",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "WebPokedex-Core-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WPObject",
+	"type" : "normal"
+}

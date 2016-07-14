@@ -1,7 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"initialize" : "CyrilFerlicot 3/3/2016 10:52",
-		"pokemons" : "CyrilFerlicot 2/14/2016 12:36",
-		"pokemons:" : "CyrilFerlicot 2/14/2016 12:36" } }
+		"numberOfPokemons" : "CyrilFerlicot 7/13/2016 23:26",
+		"pokemons:" : "CyrilFerlicot 2/14/2016 12:36",
+		"pokemons" : "CyrilFerlicot 2/14/2016 12:36"
+	},
+	"class" : { }
+}

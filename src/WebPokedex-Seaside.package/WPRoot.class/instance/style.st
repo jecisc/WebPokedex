@@ -18,6 +18,14 @@ main{
 	background-color: #C8C8C8;
 }
 
+[disabled] {
+    cursor: default !important;
+}
+
+button, [type="button"], [type="reset"], [type="submit"] {
+    cursor: pointer;
+}
+
 .mdl-layout__header-row .mdl-navigation form .mdl-textfield{
 	width: 300px !important;
 }

@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 numbersOfPages
 	^ self model numberOfPokemons / self pokemonsByPage roundUpTo: 1

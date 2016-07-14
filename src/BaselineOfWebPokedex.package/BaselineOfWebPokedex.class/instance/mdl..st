@@ -5,7 +5,6 @@ mdl: spec
 	spec
 		configuration: 'MaterialDesignLite'
 		with: [ spec
-				className: #ConfigurationOfMaterialDesignLite;
 				versionString: #bleedingEdge;
 				loads: #('all');
 				repository: 'http://smalltalkhub.com/mc/KevinLanvin/MaterialDesignLite/main/' ]

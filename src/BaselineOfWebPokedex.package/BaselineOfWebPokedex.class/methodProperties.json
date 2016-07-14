@@ -1,9 +1,10 @@
 {
 	"instance" : {
-		"mdl:" : "CyrilFerlicot 6/18/2016 23:42",
-		"seaside30:" : "CyrilFerlicot 3/24/2016 20:00",
-		"baseline:" : "CyrilFerlicot 6/19/2016 00:39",
-		"json:" : "CyrilFerlicot 2/23/2016 22:04"
+		"seaside3:" : "CyrilFerlicot 7/14/2016 17:35",
+		"mdl:" : "CyrilFerlicot 7/14/2016 17:34",
+		"json:" : "CyrilFerlicot 2/23/2016 22:04",
+		"seasideComponents:" : "CyrilFerlicot 7/14/2016 17:34",
+		"baseline:" : "CyrilFerlicot 7/14/2016 17:38"
 	},
 	"class" : { }
 }

@@ -23,17 +23,17 @@ style
 	bottom: 0;
 }
 
-.pages{
+.mdl-pagination{
     height: 60px;
     text-align: center;
-	 width: calc( 100% - 125px );
+    width: 100%;
 }
 
-.pagesButtons {
-    display: inline-block;
+.mdl-pagination__pages-buttons{
+	display: inline-block;
 }
 
-.pagesButtons button {
+.mdl-pagination__pages-buttons button {
     margin: 0;
     padding: .5em 1em;
     border: 0;
@@ -44,39 +44,40 @@ style
     font: inherit;
 }
 
-.pagesButtons button:hover{
+.mdl-pagination__pages-buttons button:hover{
     box-shadow: inset 0px -4px 0px 0px #bbb;
 }
 
-.pagesButtons .current{
+.mdl-pagination__pages-buttons .current{
     box-shadow: inset 0px -4px 0px 0px rgb(255,82,82);
     color: rgb(255,82,82);
     font-weight: bold !important;
 }
 
-.pagesButtons button[disabled] {
+.mdl-pagination__pages-buttons button[disabled] {
     box-shadow: inset 0px -2px 0px 0px #e6e6e6;
     color: #e6e6e6;
 }
 
-.pages .mdl-textfield{
+.mdl-pagination .mdl-textfield{
 	padding: 20px 0 0 0;
 }
 
-.pages .mdl-textfield__label::after{
+.mdl-pagination .mdl-textfield__label::after{
 	bottom: 0;
 }
 
-.pages form{
+.mdl-pagination form{
 	margin-left: 10px;
+	display: initial;
 }
 
-.pagesContent{
-    display: inline-flex;
-}
-
-.paginationButtons{
+.mdl-pagination__pages{
     padding-top: 10px;
+}
+
+.mdl-pagination__container{
+	display: inline-flex;
 }
 
 '

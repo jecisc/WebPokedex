@@ -1,4 +1,4 @@
-as yet unclassified
+components
 pokemonsByPageComponent
 	^ (MDLSelectWidget
 		possibilities: self numberOfPokemonsByPagePossibilities

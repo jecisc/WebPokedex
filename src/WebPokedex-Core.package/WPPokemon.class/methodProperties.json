@@ -1,15 +1,18 @@
 {
-	"class" : {
-		"named:" : "CyrilFerlicot 2/14/2016 00:27" },
 	"instance" : {
-		"<" : "CyrilFerlicot 2/24/2016 22:30",
-		"<=" : "CyrilFerlicot 2/24/2016 22:29",
-		"=" : "CyrilFerlicot 4/12/2016 23:39",
 		">" : "CyrilFerlicot 2/24/2016 22:28",
 		">=" : "CyrilFerlicot 2/24/2016 22:29",
-		"hash" : "CyrilFerlicot 4/12/2016 23:40",
-		"id" : "CyrilFerlicot 2/21/2016 19:44",
-		"id:" : "CyrilFerlicot 2/21/2016 19:44",
 		"name" : "CyrilFerlicot 2/14/2016 00:26",
+		"id" : "CyrilFerlicot 2/21/2016 19:44",
+		"=" : "CyrilFerlicot 4/12/2016 23:39",
 		"name:" : "CyrilFerlicot 2/14/2016 00:25",
-		"printOn:" : "CyrilFerlicot 2/14/2016 00:29" } }
+		"printOn:" : "CyrilFerlicot 2/14/2016 00:29",
+		"id:" : "CyrilFerlicot 2/21/2016 19:44",
+		"<" : "CyrilFerlicot 2/24/2016 22:30",
+		"hash" : "CyrilFerlicot 4/12/2016 23:40",
+		"<=" : "CyrilFerlicot 2/24/2016 22:29"
+	},
+	"class" : {
+		"named:" : "CyrilFerlicot 2/14/2016 00:27"
+	}
+}

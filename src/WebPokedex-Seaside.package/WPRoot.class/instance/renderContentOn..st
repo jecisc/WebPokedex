@@ -1,6 +1,7 @@
 rendering
 renderContentOn: html
-	html
-		render: WPLoginComponent new;
-		render: WPVersionComponent new;
-		render: self component
+	html mdlLayout
+		fixedHeader;
+		with: [ html render: self header.
+			(html tag: #main) with: [ html render: self component ].
+			html render: self footer ]

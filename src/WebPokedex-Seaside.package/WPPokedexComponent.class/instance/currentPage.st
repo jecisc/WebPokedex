@@ -1,3 +1,3 @@
 accessing
 currentPage
-	^ currentPage
+	^ self paginationComponent currentPage

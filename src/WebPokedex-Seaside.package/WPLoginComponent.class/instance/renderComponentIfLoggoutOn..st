@@ -1,9 +1,20 @@
 rendering
 renderComponentIfLoggoutOn: html
-	html
-		form: [ html text: 'User: '.
-			html select
-				list: self server users;
-				labels: [ :user | user pseudo ];
-				callback: [ :user | self log: user ].
-			html submitButton ]
+	| idButtonOpen idButtonClose |
+	html mdlDialog
+		openButtonId: (idButtonOpen := html nextId);
+		closeButtonId: (idButtonClose := html nextId);
+		with: [ html mdlDialogTitle: 'Login'.
+			html
+				mdlDialogContent: [ html
+						form: [ html render: self selectUserInput.
+							html mdlSubmitButton: 'Log In' ] ].
+			html
+				mdlDialogActions: [ html mdlButton
+						id: idButtonClose;
+						with: 'Cancel' ] ].
+	html mdlNavigationLink
+		id: idButtonOpen;
+		with: [ html mdlIcon
+				class: #notLogged;
+				with: #power_settings_new ]

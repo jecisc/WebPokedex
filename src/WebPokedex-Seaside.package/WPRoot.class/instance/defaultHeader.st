@@ -1,0 +1,3 @@
+components
+defaultHeader
+	^ WPHeader new

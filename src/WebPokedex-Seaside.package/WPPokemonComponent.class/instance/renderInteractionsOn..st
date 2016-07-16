@@ -1,6 +1,7 @@
 rendering
 renderInteractionsOn: html
-	html div
+	html mdlCardActions
+		border;
 		class: 'interactions';
 		with: [ self
 				renderHavePokemonIconOn: html;

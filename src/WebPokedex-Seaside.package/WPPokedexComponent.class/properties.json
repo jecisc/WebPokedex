@@ -7,7 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"model",
-		"currentPage"
+		"pokemonsByPage",
+		"paginationComponent"
 	],
 	"name" : "WPPokedexComponent",
 	"type" : "normal"

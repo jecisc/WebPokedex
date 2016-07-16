@@ -1,12 +1,11 @@
 rendering
 renderContentOn: html
-	self flag: #todo.	"Clean this shit latter."
-	html div
-		class: 'links';
-		with: [ html anchor
-				callback: [ self root addToStack: WPNewsPageComponent new ];
-				with: 'News' ].
 	html div
 		class: 'pokedex';
-		with: [ self renderPagesButtonsOn: html.
-			(self model pokemonsAtPage: self currentPage) do: [ :pokemon | html render: (WPPokemonComponent pokemon: pokemon) ] ]
+		with: [ html div
+				class: #top;
+				with: [ html render: self paginationComponent.
+					html form: [ html render: self pokemonsByPageComponent ] ].
+			html
+				mdlGrid: [ (self model pokemonsAtPage: self currentPage paginatedBy: self pokemonsByPage)
+						do: [ :pokemon | html render: (WPPokemonComponent pokemon: pokemon) ] ] ]

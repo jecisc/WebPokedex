@@ -3,6 +3,11 @@ renderEntryOn: html
 	html image
 		class: 'pokemonIcon';
 		url: (self server urlOf: self pokemon).
-	self currentUser isLoggedIn
-		ifTrue: [ self renderInteractionsOn: html ].
-	self renderDatasOn: html
+	html div
+		class: 'datas';
+		with: [ html span
+				class: 'id';
+				with: self pokemon formatedId.
+			html heading
+				level5;
+				with: self pokemon formatedName ]

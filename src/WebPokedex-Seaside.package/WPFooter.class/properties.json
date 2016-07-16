@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WPComponent",
+	"category" : "WebPokedex-Seaside-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WPFooter",
+	"type" : "normal"
+}

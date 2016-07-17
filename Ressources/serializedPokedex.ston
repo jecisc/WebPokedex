@@ -1,1 +1,0 @@
-WPPokedex {	#pokemons : OrderedCollection [		WPPokemon {			#id : 1,			#name : 'bulbasaur'		},		WPPokemon {			#id : 2,			#name : 'ivysaur'		},		WPPokemon {			#id : 3,			#name : 'venusaur'		},		WPPokemon {			#id : 4,			#name : 'charmander'		}	]}

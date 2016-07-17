@@ -5,6 +5,11 @@ style
 	width: 100%;
 }
 
+.pokedex .mdl-card{
+	width: initial;
+	word-break: keep-all;
+}
+
 .pokedex .top{
    display: inline-flex;
 	width: 100%;

@@ -2,7 +2,7 @@ rendering
 renderEntryOn: html
 	html image
 		class: 'pokemonIcon';
-		url: (self server urlOf: self pokemon).
+		url: (self context pokemonImageUrlFor: self pokemon).
 	html div
 		class: 'datas';
 		with: [ html span

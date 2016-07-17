@@ -7,8 +7,6 @@ newTitleComponent
 				streamContents: [ :s | 
 					s
 						<< 'background-image: url(''';
-						<< self context imagesURL;
-						<< '/NewsBackground/';
-						<< self news mdlCardImageName;
+						<< (self context newTitleUrlFor: self news mdlCardImageName);
 						<< ''');' ]);
 		yourself

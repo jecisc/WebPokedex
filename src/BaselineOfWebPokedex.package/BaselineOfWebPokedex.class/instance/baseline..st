@@ -11,8 +11,11 @@ baseline: spec
 			spec
 				package: 'WebPokedex-Core';
 				package: 'WebPokedex-News';
-				package: 'WebPokedex-Seaside' with: [ spec requires: #('Seaside3' 'WebPokedex-Core' 'WebPokedex-News' 'MaterialDesignLite' 'SeasideComponents') ];
-				package: 'WebPokedex-Server' with: [ spec requires: #('WebPokedex-Seaside' 'JSON') ].
+				package: 'WebPokedex-Seaside'
+					with: [ spec
+						requires:
+							#('Seaside3' 'WebPokedex-Core' 'WebPokedex-Server' 'WebPokedex-News' 'MaterialDesignLite' 'SeasideComponents') ];
+				package: 'WebPokedex-Server' with: [ spec requires: #('JSON') ].
 			spec
 				package: 'WebPokedex-Tests-Core' with: [ spec requires: #('WebPokedex-Core') ];
 				package: 'WebPokedex-Tests-News' with: [ spec requires: #('WebPokedex-News') ].

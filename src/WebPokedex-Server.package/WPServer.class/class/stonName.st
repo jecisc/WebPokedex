@@ -1,3 +1,3 @@
 serialization
 stonName
-	^ 'Server'
+	^ #Server

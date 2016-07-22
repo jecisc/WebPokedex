@@ -1,0 +1,10 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'WebPokedex',
+      #directory : 'src',
+	  #onWarningLog : true,
+      #platforms : [ #pharo ]
+    }
+  ]
+}

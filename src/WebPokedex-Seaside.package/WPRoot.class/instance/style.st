@@ -11,11 +11,14 @@ style
 	margin-bottom: 0 !important;
 	overflow: auto;
 	font-family: "Roboto","Helvetica","Arial",sans-serif;
+	background: url(';
+				<< self context imagesURL;
+				<<
+					'/background.png);
 }
 
 main{
 	overflow: auto;
-	background-color: #C8C8C8;
 }
 
 [disabled] {
@@ -69,6 +72,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
     background-attachment: fixed;
     background-size: cover;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    opacity: 0.8;
 }
 
 .newsDate h3{

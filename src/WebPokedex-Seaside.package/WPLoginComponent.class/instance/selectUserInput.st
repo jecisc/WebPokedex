@@ -5,5 +5,5 @@ selectUserInput
 		inputLabel: 'Select the user to log with'
 		labelBlock: #pseudo
 		callback: [ :user | self log: user ])
-		defaultSorting;
+		standardSorting;
 		yourself

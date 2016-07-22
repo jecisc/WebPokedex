@@ -1,5 +1,5 @@
 # WebPokedex
-
+[![Build Status](https://travis-ci.org/jecisc/WebPokedex.svg?branch=development)](https://travis-ci.org/jecisc/WebPokedex)
 ```Smalltalk
 Metacello new 
   baseline: #WebPokedex;

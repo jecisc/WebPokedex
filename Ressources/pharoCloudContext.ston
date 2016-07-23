@@ -1,0 +1,1 @@
+WPContext {	#parameters : {		'imagesURL' : 'http://pokedex.pharocloud.com:1701/images',		'serverSerializedDirectoryPath' : 'WebPokedex-development/Ressources',		'port' : 8080,		'imagesDirectoryPath' : 'WebPokedex-development/Ressources/pokemonsImages',		'newsDirectoryPath' : 'WebPokedex-development/Ressources/News'	}}

@@ -1,0 +1,3 @@
+components
+defaultOptionsComponent
+	^ WPSelectionOptionsComponent new

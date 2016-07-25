@@ -1,10 +1,9 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"printOn:" : "CyrilFerlicot 6/19/2016 12:41",
-		"isLoggedIn" : "CyrilFerlicot 2/26/2016 20:40",
+		"canProvide:" : "CyrilFerlicot 2/26/2016 20:38",
 		"have:" : "CyrilFerlicot 2/26/2016 20:38",
-		"pseudo" : "CyrilFerlicot 2/26/2016 20:39",
-		"canProvide:" : "CyrilFerlicot 2/26/2016 20:38"
-	},
-	"class" : { }
-}
+		"isLoggedIn" : "CyrilFerlicot 2/26/2016 20:40",
+		"printOn:" : "CyrilFerlicot 6/19/2016 12:41",
+		"pseudo" : "CyrilFerlicot 2/26/2016 20:39" } }

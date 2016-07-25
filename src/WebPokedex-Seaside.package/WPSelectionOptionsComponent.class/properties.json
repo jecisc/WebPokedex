@@ -1,0 +1,14 @@
+{
+	"category" : "WebPokedex-Seaside-Componant",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"canTrade" ],
+	"name" : "WPSelectionOptionsComponent",
+	"pools" : [
+		 ],
+	"super" : "WPComponent",
+	"type" : "normal" }

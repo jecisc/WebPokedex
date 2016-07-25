@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"style" : "CyrilFerlicot 7/25/2016 02:07" },
+	"instance" : {
+		"canTrade" : "CyrilFerlicot 7/25/2016 00:35",
+		"canTrade:" : "CyrilFerlicot 7/25/2016 00:35",
+		"initialize" : "CyrilFerlicot 7/25/2016 00:31",
+		"renderActionsOn:" : "CyrilFerlicot 7/25/2016 01:31",
+		"renderCarTradeSwitchOn:" : "CyrilFerlicot 7/25/2016 01:22",
+		"renderContentOn:" : "CyrilFerlicot 7/25/2016 02:45",
+		"toggleScriptFor:" : "CyrilFerlicot 7/25/2016 02:40" } }

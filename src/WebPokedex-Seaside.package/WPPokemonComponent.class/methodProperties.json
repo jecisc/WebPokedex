@@ -1,18 +1,15 @@
 {
+	"class" : {
+		"pokemon:" : "CyrilFerlicot 2/21/2016 19:37",
+		"style" : "CyrilFerlicot 7/16/2016 15:52" },
 	"instance" : {
 		"cardWidgetForCanvas:" : "CyrilFerlicot 7/16/2016 15:40",
-		"renderInteractionsOn:" : "CyrilFerlicot 7/16/2016 15:35",
+		"pokemon" : "CyrilFerlicot 2/21/2016 19:33",
 		"pokemon:" : "CyrilFerlicot 2/21/2016 19:33",
-		"toggleCanProvidePokemon" : "CyrilFerlicot 2/26/2016 00:19",
-		"renderContentOn:" : "CyrilFerlicot 7/16/2016 15:41",
-		"toggelHavePokemon" : "CyrilFerlicot 2/26/2016 22:21",
-		"renderEntryOn:" : "CyrilFerlicot 7/17/2016 11:45",
 		"renderCanProvidePokemonIconOn:" : "CyrilFerlicot 3/19/2016 19:00",
+		"renderContentOn:" : "CyrilFerlicot 7/16/2016 15:41",
+		"renderEntryOn:" : "CyrilFerlicot 7/17/2016 11:45",
 		"renderHavePokemonIconOn:" : "CyrilFerlicot 3/19/2016 19:00",
-		"pokemon" : "CyrilFerlicot 2/21/2016 19:33"
-	},
-	"class" : {
-		"style" : "CyrilFerlicot 7/16/2016 15:52",
-		"pokemon:" : "CyrilFerlicot 2/21/2016 19:37"
-	}
-}
+		"renderInteractionsOn:" : "CyrilFerlicot 7/16/2016 15:35",
+		"toggelHavePokemon" : "CyrilFerlicot 2/26/2016 22:21",
+		"toggleCanProvidePokemon" : "CyrilFerlicot 2/26/2016 00:19" } }

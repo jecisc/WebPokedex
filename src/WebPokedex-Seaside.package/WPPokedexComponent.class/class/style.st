@@ -10,21 +10,25 @@ style
 	word-break: keep-all;
 }
 
-.pokedex .top{
+.pokedex-top{
+	width: 100%;
+}
+
+.pokedex-pagination{
    display: inline-flex;
 	width: 100%;
 	background-color: #fff;
 }
 
-.pokedex .top form{
+.pokedex-pagination form{
     display: initial;
 }
 
-.pokedex .top form .mdl-textfield{
+.pokedex-pagination form .mdl-textfield{
 	padding: 20px 0 0 0;
 }
 
-.pokedex .top form .mdl-textfield__label::after{
+.pokedex-pagination form .mdl-textfield__label::after{
 	bottom: 0;
 }
 

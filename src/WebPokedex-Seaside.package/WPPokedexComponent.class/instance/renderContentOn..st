@@ -3,9 +3,10 @@ renderContentOn: html
 	html div
 		class: 'pokedex';
 		with: [ html div
-				class: #top;
-				with: [ html render: self paginationComponent.
-					html form: [ html render: self pokemonsByPageComponent ] ].
+				class: #'pokedex-top';
+				with: [ self renderPokedexPaginationOn: html.
+					self currentUser isLoggedIn
+						ifTrue: [ html render: self optionsComponent ] ].
 			html
 				mdlGrid: [ (self model pokemonsAtPage: self currentPage paginatedBy: self pokemonsByPage)
 						do: [ :pokemon | html render: (WPPokemonComponent pokemon: pokemon) ] ] ]

@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
 		"pokemonsAtPage:paginatedBy:" : "CyrilFerlicot 7/14/2016 01:05",
 		"postStonReaderActions" : "CyrilFerlicot 3/3/2016 10:53",
-		"stonOn:" : "CyrilFerlicot 3/3/2016 10:58",
-		"prepareForSerialization" : "CyrilFerlicot 3/3/2016 10:52"
-	},
-	"class" : { }
-}
+		"prepareForSerialization" : "CyrilFerlicot 3/3/2016 10:52",
+		"stonOn:" : "CyrilFerlicot 3/3/2016 10:58" } }

@@ -6,12 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"canTrade",
-		"owner",
-		"scope",
-		"errorMessage" ],
-	"name" : "WPSelectionOptionsComponent",
+		"component",
+		"buttonName",
+		"position" ],
+	"name" : "SCFoldableComponent",
 	"pools" : [
 		 ],
-	"super" : "WPComponent",
+	"super" : "WAComponent",
 	"type" : "normal" }

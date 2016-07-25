@@ -8,5 +8,5 @@ renderContentOn: html
 					self currentUser isLoggedIn
 						ifTrue: [ html render: self optionsComponent ] ].
 			html
-				mdlGrid: [ (self model pokemonsAtPage: self currentPage paginatedBy: self pokemonsByPage)
+				mdlGrid: [ self displayedPokemons
 						do: [ :pokemon | html render: (WPPokemonComponent pokemon: pokemon) ] ] ]

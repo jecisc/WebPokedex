@@ -5,8 +5,9 @@
 		"style" : "CyrilFerlicot 7/24/2016 23:43" },
 	"instance" : {
 		"currentPage" : "CyrilFerlicot 7/14/2016 14:35",
-		"defaultOptionsComponent" : "CyrilFerlicot 7/24/2016 23:27",
+		"defaultOptionsComponent" : "CyrilFerlicot 7/25/2016 22:41",
 		"defaultPaginationComponent" : "CyrilFerlicot 7/24/2016 23:27",
+		"displayedPokemons" : "CyrilFerlicot 7/25/2016 22:42",
 		"initialize" : "CyrilFerlicot 7/24/2016 23:37",
 		"model" : "CyrilFerlicot 2/26/2016 22:06",
 		"model:" : "CyrilFerlicot 2/14/2016 13:14",
@@ -19,5 +20,5 @@
 		"pokemonsByPage" : "CyrilFerlicot 7/13/2016 23:30",
 		"pokemonsByPage:" : "CyrilFerlicot 7/14/2016 14:52",
 		"pokemonsByPageComponent" : "CyrilFerlicot 7/14/2016 00:02",
-		"renderContentOn:" : "CyrilFerlicot 7/25/2016 00:17",
+		"renderContentOn:" : "CyrilFerlicot 7/25/2016 22:42",
 		"renderPokedexPaginationOn:" : "CyrilFerlicot 7/24/2016 23:48" } }

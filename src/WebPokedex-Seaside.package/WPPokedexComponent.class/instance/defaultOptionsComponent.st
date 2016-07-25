@@ -1,3 +1,6 @@
 components
 defaultOptionsComponent
-	^ WPSelectionOptionsComponent new
+	^ SCFoldableComponent new
+		component: (WPSelectionOptionsComponent owner: self);
+		buttonName: 'Options';
+		yourself

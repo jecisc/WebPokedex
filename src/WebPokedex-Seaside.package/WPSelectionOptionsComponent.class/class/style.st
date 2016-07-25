@@ -4,24 +4,22 @@ style
 		streamContents: [ :s | 
 			s
 				<<
-					'.pokedex-options{
-  width: 100%;
+					'.foldable{
   background-color: #FFF;
   text-align: center;
   display: none;
+  padding: 10px;
 }
 
-.pokedex-options__option{
-  display: inline-block;
-  margin: 10px 2px;
+.foldable__top, .foldable__bottom{
+  width: 100%;
 }
 
-.pokedex-options__option.mdl-switch{
-  width: 130px;
-  padding-left: 0;
+.foldable__right, .foldable__left{
+  height: 100%;
 }
 
-.pokedex-options__toggle{
+.foldable__toggle{
   display: inline-block;
   position: relative;
   background: #FFF;
@@ -36,10 +34,10 @@ style
   cursor: pointer;
 }
 
-.pokedex-options__toggle i{
+.foldable__toggle i{
   vertical-align: middle;
 }
-.pokedex-options__toggle::after{
+.foldable__toggle::after{
   content: "";
   display: block;  
   position: absolute;
@@ -52,4 +50,33 @@ style
   border-bottom: 0 solid transparent;
   border-left: 50px solid transparent;
 }
+
+.pokedex-options__option{
+  display: inline-block;
+  margin: 10px 2px;
+}
+
+.pokedex-options__option.mdl-switch{
+  width: 130px;
+  padding-left: 0;
+}
+
+.pokedex-options__separator{
+	border-left: 1px solid #E0E0E0;
+}
+
+.pokedex-options__form { 
+  display: inline-block;
+  margin: 0px 20px;
+}
+
+.pokedex-options__form .mdl-textfield{
+  width: 50px;
+  padding-bottom: 0;
+}
+
+.pokedex-options__form .mdl-textfield__label::after{
+  bottom: 0;
+}
+
 ' ]

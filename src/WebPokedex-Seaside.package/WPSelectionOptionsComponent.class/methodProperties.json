@@ -1,11 +1,25 @@
 {
 	"class" : {
-		"style" : "CyrilFerlicot 7/25/2016 02:07" },
+		"owner:" : "CyrilFerlicot 7/25/2016 22:42",
+		"style" : "CyrilFerlicot 7/25/2016 23:14" },
 	"instance" : {
 		"canTrade" : "CyrilFerlicot 7/25/2016 00:35",
 		"canTrade:" : "CyrilFerlicot 7/25/2016 00:35",
+		"checkHighScopeValidityOf:" : "CyrilFerlicot 7/25/2016 23:35",
+		"checkLowerScopeValidityOf:" : "CyrilFerlicot 7/25/2016 23:35",
+		"errorMessage" : "CyrilFerlicot 7/25/2016 23:32",
+		"errorMessage:" : "CyrilFerlicot 7/25/2016 23:36",
 		"initialize" : "CyrilFerlicot 7/25/2016 00:31",
-		"renderActionsOn:" : "CyrilFerlicot 7/25/2016 01:31",
+		"owner" : "CyrilFerlicot 7/25/2016 22:42",
+		"owner:" : "CyrilFerlicot 7/25/2016 22:42",
+		"renderActionsOn:" : "CyrilFerlicot 7/25/2016 23:46",
+		"renderButtonNamed:icon:action:on:" : "CyrilFerlicot 7/25/2016 23:45",
 		"renderCarTradeSwitchOn:" : "CyrilFerlicot 7/25/2016 01:22",
-		"renderContentOn:" : "CyrilFerlicot 7/25/2016 02:45",
-		"toggleScriptFor:" : "CyrilFerlicot 7/25/2016 02:40" } }
+		"renderContentOn:" : "CyrilFerlicot 7/25/2016 23:42",
+		"renderScopeOn:" : "CyrilFerlicot 7/25/2016 23:47",
+		"scope" : "CyrilFerlicot 7/25/2016 23:35",
+		"scope:" : "CyrilFerlicot 7/25/2016 23:26",
+		"selectAllPage" : "CyrilFerlicot 7/25/2016 22:42",
+		"setHigherBoundTo:" : "CyrilFerlicot 7/25/2016 23:48",
+		"setLowerBoundTo:" : "CyrilFerlicot 7/25/2016 23:46",
+		"unselectAllPage" : "CyrilFerlicot 7/25/2016 22:42" } }

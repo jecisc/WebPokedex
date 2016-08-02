@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 4/17/2016 18:42",
-	"super" : "WPComponent",
 	"category" : "WebPokedex-Seaside-Componant",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/17/2016 18:42",
 	"instvars" : [
-		"newsComponents"
-	],
+		"newsComponents" ],
 	"name" : "WPNewsPageComponent",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "WPComponent",
+	"type" : "normal" }

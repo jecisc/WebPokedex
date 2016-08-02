@@ -1,26 +1,22 @@
 {
-	"instance" : {
-		"instanceOf:" : "CyrilFerlicot 7/10/2016 01:19",
-		"style" : "CyrilFerlicot 7/22/2016 23:36",
-		"componentsInstances" : "CyrilFerlicot 7/10/2016 01:17",
-		"model" : "CyrilFerlicot 4/18/2016 21:00",
-		"renderContentOn:" : "CyrilFerlicot 6/19/2016 13:20",
-		"defaultFooter" : "CyrilFerlicot 6/19/2016 00:54",
-		"setInstanceOf:" : "CyrilFerlicot 7/10/2016 01:22",
-		"component" : "CyrilFerlicot 7/10/2016 01:18",
-		"initComponentInstances" : "CyrilFerlicot 7/10/2016 01:44",
-		"updateRoot:" : "CyrilFerlicot 7/17/2016 11:31",
-		"header" : "CyrilFerlicot 6/19/2016 00:52",
-		"initialize" : "CyrilFerlicot 7/10/2016 01:44",
-		"componentsInstances:" : "CyrilFerlicot 7/10/2016 01:17",
-		"header:" : "CyrilFerlicot 6/19/2016 00:52",
-		"component:" : "CyrilFerlicot 7/10/2016 01:17",
-		"footer" : "CyrilFerlicot 6/19/2016 00:52",
-		"defaultHeader" : "CyrilFerlicot 6/19/2016 00:53",
-		"footer:" : "CyrilFerlicot 6/19/2016 00:52"
-	},
 	"class" : {
 		"initialize" : "CyrilFerlicot 6/19/2016 00:30",
-		"useInImageDebugger" : "CyrilFerlicot 3/13/2016 02:18"
-	}
-}
+		"useInImageDebugger" : "CyrilFerlicot 3/13/2016 02:18" },
+	"instance" : {
+		"component" : "CyrilFerlicot 7/10/2016 01:18",
+		"component:" : "CyrilFerlicot 7/10/2016 01:17",
+		"componentsInstances" : "CyrilFerlicot 7/10/2016 01:17",
+		"componentsInstances:" : "CyrilFerlicot 7/10/2016 01:17",
+		"defaultFooter" : "CyrilFerlicot 6/19/2016 00:54",
+		"defaultHeader" : "CyrilFerlicot 6/19/2016 00:53",
+		"footer" : "CyrilFerlicot 6/19/2016 00:52",
+		"footer:" : "CyrilFerlicot 6/19/2016 00:52",
+		"header" : "CyrilFerlicot 6/19/2016 00:52",
+		"header:" : "CyrilFerlicot 6/19/2016 00:52",
+		"initComponentInstances" : "CyrilFerlicot 7/10/2016 01:44",
+		"initialize" : "CyrilFerlicot 7/10/2016 01:44",
+		"instanceOf:" : "CyrilFerlicot 7/10/2016 01:19",
+		"model" : "CyrilFerlicot 4/18/2016 21:00",
+		"renderContentOn:" : "CyrilFerlicot 6/19/2016 13:20",
+		"setInstanceOf:" : "CyrilFerlicot 7/10/2016 01:22",
+		"updateRoot:" : "CyrilFerlicot 8/2/2016 20:00" } }

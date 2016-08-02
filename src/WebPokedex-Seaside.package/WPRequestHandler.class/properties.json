@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 4/18/2016 23:49",
-	"super" : "WARequestHandler",
 	"category" : "WebPokedex-Seaside-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/18/2016 23:49",
+	"instvars" : [
+		 ],
 	"name" : "WPRequestHandler",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "WARequestHandler",
+	"type" : "normal" }

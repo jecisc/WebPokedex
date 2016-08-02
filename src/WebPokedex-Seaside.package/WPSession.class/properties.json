@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "CyrilFerlicot 5/31/2016 22:31",
-	"super" : "WASession",
 	"category" : "WebPokedex-Seaside-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 5/31/2016 22:31",
 	"instvars" : [
 		"user",
-		"root"
-	],
+		"root" ],
 	"name" : "WPSession",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }

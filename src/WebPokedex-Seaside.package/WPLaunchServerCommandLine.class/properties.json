@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 6/4/2016 23:48",
-	"super" : "CommandLineHandler",
 	"category" : "WebPokedex-Seaside-Cli",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/4/2016 23:48",
+	"instvars" : [
+		 ],
 	"name" : "WPLaunchServerCommandLine",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "CommandLineHandler",
+	"type" : "normal" }

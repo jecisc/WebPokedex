@@ -9,3 +9,9 @@ Metacello new
 
 (Smalltalk at: #WPServer) readStonModel
 ```
+
+## Compile css
+
+```Bash
+	WebPokedex\Ressources\pokemonsImages\css>sass WebPokedex.sass WebPokedex.css --style compressed
+```

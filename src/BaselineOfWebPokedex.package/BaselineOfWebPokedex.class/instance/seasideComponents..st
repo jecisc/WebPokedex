@@ -5,4 +5,4 @@ seasideComponents: spec
 	spec
 		baseline: 'SeasideComponents'
 		with:
-			[ spec repository: 'github://jecisc/SeasideComponents:master/src' ]
+			[ spec repository: 'github://jecisc/SeasideComponents:development/src' ]

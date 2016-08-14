@@ -1,0 +1,63 @@
+@import "Variables.sass"
+
+.pokedex
+  +heightWidthSize
+
+  .mdl-card
+    width: initial
+    word-break: keep-all
+
+  .top
+    display: inline-flex
+    width: 100%
+    background-color: #fff
+
+    form
+      display: initial
+
+      .mdl-textfield
+        padding: 20px 0 0 0
+
+      .mdl-textfield__label::after
+        bottom: 0
+
+  .pokemon
+    text-align: center
+
+    &:hover
+      +transform(scale(1.02))
+      +transition(transform 0.5s linear)
+
+    .pokemonHeader
+      background: url($pokemonHeader) center / cover
+      color: #fff
+
+    .pokemonIcon
+      +heightWidthSize(100px)
+      +border-radius(50%)
+      background-color: $red50
+      padding: 15px
+
+    .datas
+      padding-left: 15px
+      text-align: left
+
+    .id
+      +font-size(12)
+      +line-height(16)
+      font-weight: bold
+      color: $grey
+
+    h5
+      +font-size(20)
+      margin: 10px 0 0 0
+      color: $grey900
+
+    .interactions
+      img
+        +opacity(0.5)
+        +heightWidthSize(35px)
+        cursor: pointer
+
+      .isActive
+        +opacity(0.9)

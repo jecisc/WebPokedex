@@ -4,13 +4,15 @@
 		"numberOfPokemonsByPagePossibilities" : "CyrilFerlicot 7/14/2016 00:56" },
 	"instance" : {
 		"currentPage" : "CyrilFerlicot 7/14/2016 14:35",
+		"defaultPaginationComponent" : "CyrilFerlicot 8/14/2016 18:14",
 		"model" : "CyrilFerlicot 2/26/2016 22:06",
 		"model:" : "CyrilFerlicot 2/14/2016 13:14",
 		"numberOfPokemonsByPagePossibilities" : "CyrilFerlicot 7/13/2016 23:32",
 		"numbersOfPages" : "CyrilFerlicot 7/14/2016 00:38",
-		"paginationComponent" : "CyrilFerlicot 7/14/2016 13:47",
+		"paginationComponent" : "CyrilFerlicot 8/14/2016 18:01",
 		"paginationComponent:" : "CyrilFerlicot 7/14/2016 13:37",
 		"pokemonsByPage" : "CyrilFerlicot 7/13/2016 23:30",
 		"pokemonsByPage:" : "CyrilFerlicot 7/14/2016 14:52",
 		"pokemonsByPageComponent" : "CyrilFerlicot 7/14/2016 00:02",
-		"renderContentOn:" : "CyrilFerlicot 7/14/2016 14:35" } }
+		"renderContentOn:" : "CyrilFerlicot 8/14/2016 17:43",
+		"renderPokemonsCardsOn:" : "CyrilFerlicot 8/14/2016 17:43" } }

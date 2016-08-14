@@ -6,6 +6,6 @@ renderContentOn: html
 				class: #top;
 				with: [ html render: self paginationComponent.
 					html form: [ html render: self pokemonsByPageComponent ] ].
-			html
-				mdlGrid: [ (self model pokemonsAtPage: self currentPage paginatedBy: self pokemonsByPage)
-						do: [ :pokemon | html render: (WPPokemonComponent pokemon: pokemon) ] ] ]
+			html mdlGrid
+				id: #'pokedex-content';
+				with: [ self renderPokemonsCardsOn: html ] ]

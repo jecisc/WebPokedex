@@ -1,3 +1,3 @@
 accessing
 selectorsToInclude
-	^ #(#WebPokedexJs #iconCss #materialminJs #materialdeeppurpleredminCss #dialogpolyfillminCss #dialogpolyfillminJs #robotoCss)
+	^ #(#iconCss #materialminJs #materialdeeppurpleredminCss #dialogpolyfillminCss #dialogpolyfillminJs #robotoCss)

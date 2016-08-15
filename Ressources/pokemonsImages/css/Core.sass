@@ -39,50 +39,7 @@ button, [type="button"], [type="reset"], [type="submit"]
 .mdl-mini-footer
   padding: 12px 16px
 
+///////// Seaside Components ///////////
 
-// TODO: Move it into the right project
-
-.mdl-pagination
-  height: 60px
-  text-align: center
-  width: 100%
-
-  .mdl-textfield
-    padding: 20px 0 0 0
-
-  .mdl-textfield__label::after
-    bottom: 0
-
-  form
-    margin-left: 10px
-    display: initial
-
-  .mdl-pagination__pages
-    padding-top: 10px
-
-  .mdl-pagination__container
-    display: inline-flex
-
-  .mdl-pagination__pages-buttons
-    display: inline-block
-
-    button
-      margin: 0
-      padding: .5em 1em
-      border: 0
-      background-color: transparent
-      box-shadow: inset 0px -2px 0px 0px #bbb
-      color: #bbb
-      font: inherit
-
-      &:hover
-        box-shadow: inset 0px -4px 0px 0px #bbb
-
-      &[disabled]
-        box-shadow: inset 0px -2px 0px 0px #e6e6e6
-        color: #e6e6e6
-
-    .current
-      box-shadow: inset 0px -4px 0px 0px rgb(255, 82, 82)
-      color: rgb(255, 82, 82)
-      font-weight: bold !important
+.mdl-pagination__current
+  box-shadow: inset 0px -4px 0px 0px $red !important

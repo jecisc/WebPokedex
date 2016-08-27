@@ -3,8 +3,7 @@ mdl: spec
 	"Material Design Lite component library"
 
 	spec
-		configuration: 'MaterialDesignLite'
+		baseline: 'MaterialDesignLite'
 		with: [ spec
-				versionString: #bleedingEdge;
-				loads: #('all');
-				repository: 'http://smalltalkhub.com/mc/KevinLanvin/MaterialDesignLite/main/' ]
+				repository: 'github://DuneSt/MaterialDesignLite:development/src';
+				loads: #('all') ]
